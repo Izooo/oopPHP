@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    align-content: center;
+    font-size: 20px;
+    
+}
+
+
+li{
+    float: right;
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 14px 16px;
+}
+
